@@ -1,0 +1,33 @@
+
+        <!--  <h1>            : opening tag
+              </h1>           : closing tag
+              My information  : content
+              style           : attribute 
+              color: red      : value -->
+              
+              <!-- change the font size to 2em
+            1em = 16px
+            font-size: 2em
+            font-size: 32px
+            font-size: 200%
+             -->
+
+                     <!-- Alighing the text to center, or right 
+        https://developer.mozilla.org/en-US/docs/Web/CSS/text-align-->
+        <!-- Background Color :background-color
+        https://developer.mozilla.org/en-US/docs/Web/CSS/background-color  -->
+
+             <!-- Style h4 tag:
+        Color  gold
+        Font size 45 px
+        Font Family Courier
+        Background-color light blue
+        Align to the right --> 
+
+          <!-- class attribute is used When we use same style for different elements -->
+
+
+        <!-- id attribute is used when we use UNIQUE styling 
+        id should be unique
+        # is used for id
+        . is sued for class -->
